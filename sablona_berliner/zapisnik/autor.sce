@@ -1,0 +1,49 @@
+<SCRIBUSELEMUTF8 W="198.4251969" H="42.5196850399998" previewData="iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAAOxAAADsQBlSsOGwAAAadJREFUaIHtz89qU1EQBvDvmzk36U1RozRqQUkV7MKFLyA+gT5NV32PvoB9Bjcu+gwKXYimRSGCSBFRieb+mzNumlKychEJ6Pw2c2aYM/AB/woRuQ0Aqrq7mC3eKjJWkbGq7CzmJDeT6sOLnUv/1omDstwnkQCW7v6F5FCEW1VVH5ZluSfCm1VVHwLwokiP66Z9qSK3RDByZ5tUd39V1UHXda/XGURV9QEIN7NjB74BSGb5Q2d2nN0/m9mJ5TwFvDaztwQ3HD43yyc550/meeo5n2X3s3UGAckr53V4aTb8g53rS3Vjef9cWur/iqQiO6JyRyhbZjZx91lRFE+qun7e6xXP3DHPZlOQfVW5Z529ocgNEgOChYhsN2171CuKp03bHqWkj7LlUwpH7j5T0btmNunMJiIyTqr366Z5sfIgInINIM3sHQAD2becPwIYmOX3BHoOzOnuXWevRGQb7lXO/tWBRt1nAJK7/wC8EvJq5z6D+XchR53ZKYAWQElS3f3nqkMsyCqOkNwEICT7q7gXQgghhBBCCCGEEEIIIYQQQgghhPD/+A3B7r7TBwNFhwAAAABJRU5ErkJggg==" YP="779.5275591" XP="28.34645669" COUNT="3" Version="1.4.6">
+ <FONT NAME="Fira Sans Bold"/>
+ <FONT NAME="Fira Sans Book"/>
+ <FONT NAME="Fira Sans ExtraBold"/>
+ <FONT NAME="Fira Sans Light"/>
+ <FONT NAME="Fira Sans Medium"/>
+ <FONT NAME="Fira Sans Regular"/>
+ <FONT NAME="Lato Light"/>
+ <FONT NAME="PermianSerifTypeface Bold"/>
+ <FONT NAME="PermianSerifTypeface Regular"/>
+ <COLOR Spot="0" Register="0" NAME="Black" CMYK="#000000ff"/>
+ <COLOR Spot="0" Register="0" NAME="Cervena" CMYK="#2effe814"/>
+ <COLOR Spot="0" Register="0" NAME="Cervena2" CMYK="#00e2c600"/>
+ <COLOR Spot="0" Register="0" NAME="Fialova" CMYK="#78871700"/>
+ <COLOR Spot="0" Register="0" NAME="Fialova2" CMYK="#44c9201b"/>
+ <COLOR Spot="0" Register="0" NAME="Modra" CMYK="#ff14000d"/>
+ <COLOR Spot="0" Register="0" NAME="Oranzova" CMYK="#007fff00"/>
+ <COLOR Spot="0" Register="0" NAME="Ruzova" CMYK="#02662601"/>
+ <COLOR Spot="0" Register="0" NAME="Tyrkysova" CMYK="#ff006633"/>
+ <COLOR Spot="0" Register="0" NAME="White" CMYK="#00000000"/>
+ <COLOR Spot="0" Register="0" NAME="Zelana" CMYK="#5700d900"/>
+ <COLOR Spot="0" Register="0" NAME="Zelena2" CMYK="#b300d500"/>
+ <COLOR Spot="0" Register="0" NAME="Zluta" CMYK="#1400c700"/>
+ <STYLE SCALEV="100" SCOLOR="Black" ALIGN="0" TXTSTP="-0.1" TXTSHX="5" TXTSHY="-5" FSHADE="100" INDENT="0" TXTSTW="-0.1" EFFECT="0" VOR="0" NACH="0" LINESPMode="0" FCOLOR="Black" DROP="0" TXTULP="-0.1" SCALEH="100" TXTULW="-0.1" KERN="0" DROPLIN="2" NAME="Volnytext-tucny" FONT="Fira Sans ExtraBold" LINESP="12.0000000000000" SSHADE="100" FIRST="0" BASE="0" FONTSIZE="10" DROPDIST="0" TXTOUT="1" BASEO="0"/>
+ <STYLE SCALEV="100" SCOLOR="Black" ALIGN="0" TXTSTP="-0.1" TXTSHX="5" TXTSHY="-5" FSHADE="100" INDENT="0" TXTSTW="-0.1" EFFECT="0" VOR="0" NACH="0" LINESPMode="0" FCOLOR="Black" DROP="0" TXTULP="-0.1" SCALEH="100" TXTULW="-0.1" KERN="0" DROPLIN="2" NAME="Volnytext-normal" FONT="Fira Sans Regular" LINESP="12.0000000000000" SSHADE="100" FIRST="0" BASE="0" FONTSIZE="10" DROPDIST="0" TXTOUT="1" BASEO="0"/>
+ <MultiLine Name="Teckovana">
+  <SubLine LineEnd="0" Dash="3" Width="1.5" LineJoin="0" Shade="100" Color="Black"/>
+ </MultiLine>
+ <MultiLine Name="Tenka">
+  <SubLine LineEnd="0" Dash="1" Width="0.5" LineJoin="0" Shade="100" Color="Black"/>
+ </MultiLine>
+ <MultiLine Name="Tenka teckovana">
+  <SubLine LineEnd="0" Dash="3" Width="0.5" LineJoin="0" Shade="100" Color="Black"/>
+ </MultiLine>
+ <MultiLine Name="Tlusta">
+  <SubLine LineEnd="0" Dash="1" Width="1.5" LineJoin="0" Shade="100" Color="Black"/>
+ </MultiLine>
+ <MultiLine Name="Velmi tlusta">
+  <SubLine LineEnd="0" Dash="1" Width="2.5" LineJoin="0" Shade="100" Color="Black"/>
+ </MultiLine>
+ <ITEM TXTULW="-0.1" POCOOR="0 0 0 0 198.425 0 198.425 0 198.425 0 198.425 0 198.425 42.5197 198.425 42.5197 198.425 42.5197 198.425 42.5197 0 42.5197 0 42.5197 0 42.5197 0 42.5197 0 0 0 0 " ANNAME="autor" RADRECT="0" TXTSTP="-0.1" GRTYP="0" PCOLOR="None" TXTSTW="-0.1" ALIGN="0" BACKITEM="-1" WIDTH="198.4251969" XPOS="28.34645669" relativePaths="1" EXTRA="0" TopLine="0" NEXTITEM="-1" PRINTABLE="1" HEIGHT="42.51968504" BASEOF="0" isTableItem="0" LANGUAGE="Czech" BACKPAGE="-1" TEXTFLOWMODE="1" TransBlendS="0" IFONT="Fira Sans Regular" TXTSCALEV="100" textPathFlipped="0" BottomLine="0" PLINEEND="0" BEXTRA="0" GROUPS="" TransBlend="0" NAMEDLST="" TXTOUT="1" AUTOTEXT="0" startArrowIndex="0" PICART="1" YPOS="779.5275591" NEXTPAGE="-1" isGroupControl="0" NUMCO="16" ISIZE="10" LOCALSCX="1" TXTSCALE="100" LOCK="0" LOCALSCY="1" PRFILE="" TransValueS="0" doOverprint="0" TXTBASE="0" IRENDER="1" fillRule="1" TEXTRA="5.669291339" FLOP="0" LINESPMode="0" ROT="0" textPathType="0" RATIO="1" PLINEART="1" TXTSTYLE="0" PCOLOR2="None" COLUMNS="1" TXTSHX="5" TXTKERN="0" TXTSHY="-5" PTYPE="4" LINESP="15" TXTSTROKE="Black" ANNOTATION="0" PLTSHOW="0" DASHS="" BOOKMARK="0" REXTRA="0" LOCKR="0" DASHOFF="0" LOCALX="0" CLIPEDIT="0" ImageClip="" LOCALY="0" EPROF="" FLIPPEDH="0" SHADE2="100" LeftLine="0" PLINEJOIN="0" NUMDASH="0" PFILE2="" PFILE3="" TXTFILLSH="100" TXTFILL="Black" TXTSTRSH="100" PWIDTH="1" COCOOR="0 0 0 0 198.425 0 198.425 0 198.425 0 198.425 0 198.425 42.5197 198.425 42.5197 198.425 42.5197 198.425 42.5197 0 42.5197 0 42.5197 0 42.5197 0 42.5197 0 0 0 0 " FLIPPEDV="0" RightLine="0" TEXTFLOW="1" SHADE="100" NUMGROUP="0" endArrowIndex="0" COLGAP="0" SCALETYPE="1" EMBEDDED="1" TEXTFLOW2="0" TEXTFLOW3="0" TransValue="0" TXTULP="-0.1" REVERS="0" FRTYPE="0" NUMPO="16">
+  <ITEXT CBASE="-3" PSTYLE="Volnytext-tucny" CH="Jakub Michálek" CFONT="Fira Sans ExtraBold"/>
+  <PARA PARENT="Volnytext-tucny"/>
+  <ITEXT CBASE="-3" PSTYLE="Volnytext-normal" CH="jakub.michalek@pirati.cz" CFONT="Fira Sans Regular"/>
+  <PARA PARENT="Volnytext-normal"/>
+ </ITEM>
+ <ITEM TXTULW="-0.1" POCOOR="" ANNAME="" RADRECT="0" TXTSTP="-0.1" GRTYP="0" PCOLOR="None" TXTSTW="-0.1" ALIGN="0" BACKITEM="-1" WIDTH="197.160581" XPOS="29.61107254" EXTRA="0" TopLine="0" NEXTITEM="-1" PRINTABLE="1" HEIGHT="1" BASEOF="0" isTableItem="0" LANGUAGE="Czech" BACKPAGE="-1" TEXTFLOWMODE="0" TransBlendS="0" IFONT="PermianSerifTypeface Regular" TXTSCALEV="100" textPathFlipped="0" BottomLine="0" PLINEEND="0" BEXTRA="0" GROUPS="" TransBlend="0" NAMEDLST="Tenka teckovana" TXTOUT="1" AUTOTEXT="0" startArrowIndex="0" PICART="1" YPOS="779.5275591" NEXTPAGE="-1" isGroupControl="0" NUMCO="0" ISIZE="10" LOCALSCX="1" TXTSCALE="100" LOCK="0" LOCALSCY="1" PRFILE="" TransValueS="0" doOverprint="0" TXTBASE="0" IRENDER="1" fillRule="1" TEXTRA="0" FLOP="0" LINESPMode="0" ROT="0" textPathType="0" RATIO="1" PLINEART="1" TXTSTYLE="0" PCOLOR2="Black" COLUMNS="1" TXTSHX="5" TXTKERN="0" TXTSHY="-5" PTYPE="5" LINESP="15" TXTSTROKE="Black" ANNOTATION="0" PLTSHOW="0" DASHS="" BOOKMARK="0" REXTRA="0" LOCKR="0" DASHOFF="0" LOCALX="0" CLIPEDIT="0" ImageClip="" LOCALY="0" EPROF="" FLIPPEDH="0" SHADE2="100" LeftLine="0" PLINEJOIN="0" NUMDASH="0" PFILE2="" PFILE3="" TXTFILLSH="100" TXTFILL="Black" TXTSTRSH="100" PWIDTH="1" COCOOR="" FLIPPEDV="0" RightLine="0" TEXTFLOW="0" SHADE="100" NUMGROUP="0" endArrowIndex="0" COLGAP="0" SCALETYPE="1" EMBEDDED="1" TEXTFLOW2="0" TEXTFLOW3="0" TransValue="0" TXTULP="-0.1" REVERS="0" FRTYPE="0" NUMPO="0"/>
+ <ITEM TXTULW="-0.1" POCOOR="" ANNAME="" RADRECT="0" TXTSTP="-0.1" GRTYP="0" PCOLOR="None" TXTSTW="-0.1" ALIGN="0" BACKITEM="-1" WIDTH="197.160581" XPOS="28.34645669" EXTRA="0" TopLine="0" NEXTITEM="-1" PRINTABLE="1" HEIGHT="1" BASEOF="0" isTableItem="0" LANGUAGE="Czech" BACKPAGE="-1" TEXTFLOWMODE="0" TransBlendS="0" IFONT="PermianSerifTypeface Regular" TXTSCALEV="100" textPathFlipped="0" BottomLine="0" PLINEEND="0" BEXTRA="0" GROUPS="" TransBlend="0" NAMEDLST="Tenka teckovana" TXTOUT="1" AUTOTEXT="0" startArrowIndex="0" PICART="1" YPOS="810.7559055" NEXTPAGE="-1" isGroupControl="0" NUMCO="0" ISIZE="10" LOCALSCX="1" TXTSCALE="100" LOCK="0" LOCALSCY="1" PRFILE="" TransValueS="0" doOverprint="0" TXTBASE="0" IRENDER="1" fillRule="1" TEXTRA="0" FLOP="0" LINESPMode="0" ROT="0" textPathType="0" RATIO="1" PLINEART="1" TXTSTYLE="0" PCOLOR2="Black" COLUMNS="1" TXTSHX="5" TXTKERN="0" TXTSHY="-5" PTYPE="5" LINESP="15" TXTSTROKE="Black" ANNOTATION="0" PLTSHOW="0" DASHS="" BOOKMARK="0" REXTRA="0" LOCKR="0" DASHOFF="0" LOCALX="0" CLIPEDIT="0" ImageClip="" LOCALY="0" EPROF="" FLIPPEDH="0" SHADE2="100" LeftLine="0" PLINEJOIN="0" NUMDASH="0" PFILE2="" PFILE3="" TXTFILLSH="100" TXTFILL="Black" TXTSTRSH="100" PWIDTH="1" COCOOR="" FLIPPEDV="0" RightLine="0" TEXTFLOW="0" SHADE="100" NUMGROUP="0" endArrowIndex="0" COLGAP="0" SCALETYPE="1" EMBEDDED="1" TEXTFLOW2="0" TEXTFLOW3="0" TransValue="0" TXTULP="-0.1" REVERS="0" FRTYPE="0" NUMPO="0"/>
+</SCRIBUSELEMUTF8>
